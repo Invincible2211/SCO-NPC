@@ -1,1 +1,1 @@
-SCO-NPC
+CustomNPC

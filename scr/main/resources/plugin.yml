@@ -1,0 +1,5 @@
+name: CustomNPCs
+main: de.fynn.customnpcs.CustomNPCs
+version: 0.1
+commands:
+  createNPC:
