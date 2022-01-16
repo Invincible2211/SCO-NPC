@@ -1,5 +1,5 @@
 name: CustomNPCs
-main: de.fynn.customnpcs.CustomNPCs
+main: de.fynn.sco.customnpcs.CustomNPCs
 version: 0.1
 commands:
   createNPC:
